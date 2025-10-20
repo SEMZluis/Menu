@@ -59,3 +59,8 @@ Enquanto a variável `oldc` é igual ao contador de cliques, significa que o usu
 ```
 
 Se o usuário não clicou ou decidiu voltar para o menu inicial, o contador de cliques será zerado. O menu e o seletor de opções serão exibidos no display e o joystick será lido conforme os seus movimentos. A opção escolhida mediante o periférico está diretamente relacionada ao eixo Y do display em que essa opção é exibida. A opção um está no valor 20, a dois no valor 40 e a três no valor 60. Com isso, é possível desenhar o seletor de opções conforme o valor da leitura do joystick: se o periférico foi movido para baixo, o seletor desce, se o periférico foi movido para cima, o seletor sobe.
+
+# Demonstração de Uso
+![WhatsApp-Video-2025-10-20-at-18 50 30](https://github.com/user-attachments/assets/91ace326-fb30-4181-96d4-42bdc57f14cb)
+![WhatsApp-Video-2025-10-20-at-18 50 59](https://github.com/user-attachments/assets/6978d163-2ed9-48d5-8d67-2695ba82f56e)
+
